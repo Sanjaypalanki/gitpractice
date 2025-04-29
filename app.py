@@ -20,5 +20,5 @@ instances = ec2.create_instances(
     ]
 )
 
-print(f"EC2 Instance '{instances[0].id}' launched successfully.")
+#print(f"EC2 Instance '{instances[0].id}' launched successfully.")
 
